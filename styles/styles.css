@@ -1,0 +1,35 @@
+.main-index {
+    background: url(../images/national-park-background.jpg) no-repeat center / cover fixed;
+    margin-bottom: 1em;
+    height: 100%;
+}
+
+.text-background {
+    background-color: rgba(17, 17, 17, 0.644);
+    border-radius: 10px;
+    color: white;
+}
+
+.website-header {
+    margin-top: 1%;
+    color: rgba(254,194,166,255)
+}
+
+.start-button {
+    margin-bottom: 1%;
+    background-color: rgba(90,131,57,255)
+
+}
+
+.start-link {
+    color: white;
+    text-decoration: wavy;
+}
+
+.park-search-bar {
+    width: fit-content;
+}
+
+.mountain-search-bar {
+    width: fit-content;
+}

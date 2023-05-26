@@ -42,6 +42,6 @@ When an option within the drop down list is selected, pertinent information to t
 
 ---
 
-## Thank you for for taking the time to review my README.md on my "Enjoy The Outdoors" CAPSTONE Project. I am looking forward to the rest of the PluralSight LearnToCode Program.
+## Thank you for for taking the time to review my README.md on my "Enjoy The Outdoors" CAPSTONE Project. I am looking forward to the rest of the PluralSight LearnToCode Program!
 
 ## - Jacob DeFalco

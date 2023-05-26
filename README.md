@@ -8,7 +8,7 @@
 
 ## Let's Get Started!
 
-![index page screenshot](readmepics\homepagesnip.PNG)
+![](readmepics\homepagesnip.PNG)
 As the user enter the website, the first page they come across is the home page (index.html). This page is styled with a beautiful image of a mountainous countryside positioned behind the title header of the website (Serenity Seekers) and some text detailing the use of the website.
 
 This home page features a header and a footer that is shared throughout every page of the website. This particular header and footer are Bootstrap 5 imports.

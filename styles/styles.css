@@ -2,6 +2,7 @@
     background: url(../images/national-park-background.jpg) no-repeat center / cover fixed;
     margin-bottom: 1em;
     height: 100%;
+    width: 100%;
 }
 
 .text-background {

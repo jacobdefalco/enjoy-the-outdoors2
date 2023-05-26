@@ -8,7 +8,7 @@
 
 ## Let's Get Started!
 
-![index page screenshot](homepagesnip.PNG)
+![index page screenshot](readmepics\homepagesnip.PNG)
 As the user enter the website, the first page they come across is the home page (index.html). This page is styled with a beautiful image of a mountainous countryside positioned behind the title header of the website (Serenity Seekers) and some text detailing the use of the website.
 
 This home page features a header and a footer that is shared throughout every page of the website. This particular header and footer are Bootstrap 5 imports.
@@ -18,14 +18,15 @@ This page has very little UI functionality save a button in the middle of the sc
 ---
 
 As the user continue through the site into the National Parks page (national-parks.html), they will be greeted with two radio buttons and search bar. Under those two features is the start of a table, so far only displaying the table headers.
-![national parks search page before input](readMEscreenshots\SearchPageBeforeInputSnips.PNG)
+![](readmepics\searchpage.PNG)
 The user then has a choice whether to search the database of parks by state or by park "type"
 
 Shown below are screenshots of both search arrays within the drop down list with their respective radio buttons enabled.
-![](readMEscreenshots\SearchByStateSnip.PNG) ![](readMEscreenshots\SearchByTypeSnip.PNG)
+
+![](readmepics\statesearch.PNG) ![](readmepics\typesearch.PNG)
 
 I have also included a screenshot of the search results showing parks within California as it is the state with the most matching search results.
-![](readMEscreenshots\CaliforniaResults.PNG)
+![](readmepics\californiasearch.PNG)
 
 ---
 
@@ -33,11 +34,11 @@ The third and final page of the website is the mountain search page (mountain.ht
 
 This page includes a drop down search bar filled with an array of various mountains throughout the United States and its territories.
 
-![](readMEscreenshots\MountainSearchDDL.PNG)
+![](readmepics\mountainDDL.PNG)
 
 When an option within the drop down list is selected, pertinent information to the chosen mountain is displayed underneath an image of said mountain. That information includes a small description of the mountain, its elevation in feet and meters, and its climbing difficulty.
 
-![](readMEscreenshots\MountainInfo.PNG)
+![](readmepics\mountainresults.PNG)
 
 ---
 
